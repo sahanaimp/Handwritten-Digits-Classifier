@@ -1,4 +1,4 @@
-#Project: Developing a Handwritten Digits Classifier with PyTorch 
+# Project: Developing a Handwritten Digits Classifier with PyTorch 
 
 ## Summary
 An analysis of the MNIST handwritten digits database using PyTorch.
