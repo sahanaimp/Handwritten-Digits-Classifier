@@ -1,7 +1,7 @@
-# Handwritten Digits Classifier PyTorch Nueral Network
+#Project: Developing a Handwritten Digits Classifier with PyTorch 
 
 ## Summary
-An analysis of the MNIST handwritten digits database using PyTorch and Jupyter Notebook.
+An analysis of the MNIST handwritten digits database using PyTorch.
 
 This notebook was originally submitted as a Udacity project in 2024.
 
