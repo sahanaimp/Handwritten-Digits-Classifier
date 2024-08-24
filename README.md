@@ -1,4 +1,4 @@
-Handwritten Digits Classifier PyTorch Nueral Network
+# Handwritten Digits Classifier PyTorch Nueral Network
 Summary
 An analysis of the MNIST handwritten digits database using PyTorch and Jupyter Notebook.
 
